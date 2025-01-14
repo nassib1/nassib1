@@ -1,6 +1,6 @@
 ## 
 👋 Hey, I’m nassib I majored in Cognitive Science and Data Science at UC Berkeley. 
-‣Email me at nassibchaya9@gmail.com if you would like to get in touch :)
+## ‣Email me at nassibchaya9@gmail.com if you would like to get in touch :)
 
 <!--
 **nassib1/nassib1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
